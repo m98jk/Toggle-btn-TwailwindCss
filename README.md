@@ -6,8 +6,8 @@ Toggle button with TailwindCss
 
 > right side
 
-![toggle-right](tg1.jpg)
+![toggle-right](tg1.png)
 
 > left side
 
-![toggle-left](tg2.jpg)
+![toggle-left](tg2.png)
